@@ -1,8 +1,8 @@
 # Music Genre Classification
 
-< **112-2 Semester | Spring 2024 | Multimedia Content Analysis Project 2** >
+[![Semester](https://img.shields.io/badge/Semester-Spring%202024-blue)]() [![Project](https://img.shields.io/badge/Project-Multimedia%20Content%20Analysis%20Project%202-orange)]()
 
-🚀 Check out the [report](https://github.com/JenLungHsu/Music-Genre-Classification/blob/main/Music%20Genre%20Classification.pdf) for more detail.
+🚀 check out the [report](https://github.com/JenLungHsu/Music-Genre-Classification/blob/main/Music%20Genre%20Classification.pdf) for more detail.
 
 ## Project Overview
 This project focuses on the classification of music genres using various **feature extraction methods** and **classification models**. The primary objective is to evaluate how different combinations of feature extraction techniques and models impact the accuracy of genre classification. The implementation covers feature extraction, model training, cross-validation, and final evaluation on the GTZAN dataset, which consists of 10 distinct music genres.
