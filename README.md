@@ -2,7 +2,7 @@
 
 112-2 Multimedia Content Analysis Project2
 
-🚀 check out the [report](https://github.com/JenLungHsu/Analysis-of-Netflix-TV-Series-and-Films-Ratings-by-Genre/blob/main/RE6121011%E5%BE%90%E4%BB%81%E7%93%8F_ANALYSIS%20OF%20NETFLIX%20TV%20SERIES%20AND%20FILMS%20RATINGS%20BY%20GENRE.pdf)  for more detail.
+🚀 check out the [report](https://github.com/JenLungHsu/Music-Genre-Classification/blob/main/Music%20Genre%20Classification.pdf)  for more detail.
 
 ## Project Overview
 This project focuses on the classification of music genres using various **feature extraction methods** and **classification models**. The primary objective is to evaluate how different combinations of feature extraction techniques and models impact the accuracy of genre classification. The implementation covers feature extraction, model training, cross-validation, and final evaluation on the GTZAN dataset, which consists of 10 distinct music genres.
